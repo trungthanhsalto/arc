@@ -8,8 +8,9 @@ interface RootLayoutProps {
 }
 
 export const metadata = {
-  title: "Grabit - Multipurpose eCommerce React NextJS Template",
-  description: "Multipurpose eCommerce React NextJS Template",
+  title: "ARC Restaurant Supply – Wholesale Restaurant Supplies & Equipment",
+  description:
+    "ARC Restaurant Supply – Wholesale Restaurant Supplies & Equipment",
 
   icons: {
     icon: "/favicon.ico",
